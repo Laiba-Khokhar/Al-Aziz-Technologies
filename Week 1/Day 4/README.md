@@ -13,6 +13,7 @@ Applied Conditional Formatting
 Created Column, Bar, Line, Pie/Donut, and Combo Charts
 Designed an interactive dashboard layout
 Applied basic data storytelling techniques
+
 Objective
 
 The objective is to transform cleaned sales data into meaningful visual insights using Excel Pivot Tables, charts, and interactive dashboard features.
